@@ -6,6 +6,10 @@ To get started, extract the .zip onto your desktop, download hamachi and follow 
 
 Toontown: Project Anvil is built off of the Altis codebase from 2018, currently planned roadmap is to finish Boardbot HQ, add another storyline with more quests, add minibosses, and a new gag track.
 
+We soon will have things set up better, but for the mean time, this is the process required to play Project: Anvil
+I'd like to apologize for the confusion regarding setup, however there will soon be a youtube tutorial on the official Project: Anvil youtube channel showing you how to set up the game, and get connected.
+
+Starting July 20th The technical team will be working with the project lead to migrate data to a VPS (virtual private server) in order to deprecate the use of hamachi for our server hosting, this will eliminate the need for you to use hamachi to get connected to the game and will allow for flawless connection with little to no issue.
 
 Known issues
 
@@ -22,3 +26,7 @@ Battle crashes
 Boardbot HQ crashes
 --If using any SOS cards during a Boardbot Executive Office battle, you will be disconnected to prevent a district reset. again, crash logs are nice, but the ones we've gotten and compared are highly inconsistent, and the Technical Team and I are clueless at the moment as to what may be causing the issue.
 --If you use any unites during the V2.0 round in the Chairman battle, you will be disconnected to prevent a district reset. again, crash logs are nice, but the ones we've gotten and compared are highly inconsistent, and the Technical Team and I are clueless at the moment as to what may be causing the issue.
+
+
+General Issues
+HQ officers are not interactable, talk to flippy to get tasks. (Remember, you can carry 4 at a time!)
