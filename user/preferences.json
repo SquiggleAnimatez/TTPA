@@ -1,0 +1,89 @@
+{
+  "acceptingNewFriends": {
+    "100000038": true,
+    "100000044": true,
+    "100000046": true,
+    "100000055": true,
+    "100000059": true,
+    "100000063": true,
+    "100000065": true
+  },
+  "acceptingNonFriendWhispers": {
+    "100000038": true,
+    "100000044": true,
+    "100000046": true,
+    "100000055": true,
+    "100000059": true,
+    "100000063": true,
+    "100000065": true
+  },
+  "anisotropic-filtering": 0,
+  "anti-aliasing": false,
+  "aspect-ratio": 3,
+  "doorkey": false,
+  "experienceBarMode": true,
+  "experimental-touch": false,
+  "fieldofview": 52.0,
+  "friendstatusmsgs": true,
+  "fullscreen": false,
+  "health-meter-mode": 2,
+  "interactkey": false,
+  "keymap": {
+    "ACTION_BUTTON": "delete",
+    "CHAT_HOTKEY": "c",
+    "INTERACT": "shift",
+    "JUMP": "space",
+    "MOVE_DOWN": "s",
+    "MOVE_LEFT": "a",
+    "MOVE_RIGHT": "d",
+    "MOVE_UP": "w",
+    "OPTIONS_PAGE_HOTKEY": "escape",
+    "SCREENSHOT_KEY": "f9"
+  },
+  "language": "English",
+  "lastEffect": {
+    "100000038": 0,
+    "100000044": 0,
+    "100000046": 0,
+    "100000055": 0,
+    "100000059": 0,
+    "100000063": 0,
+    "100000065": 0
+  },
+  "lastNametag": {
+    "100000038": 0,
+    "100000044": 0,
+    "100000046": 0,
+    "100000055": 0,
+    "100000059": 0,
+    "100000063": 0,
+    "100000065": 0
+  },
+  "lastRod": {
+    "100000038": 0,
+    "100000044": 0,
+    "100000046": 0,
+    "100000055": 0,
+    "100000059": 0,
+    "100000063": 0,
+    "100000065": 0
+  },
+  "loadDisplay": "pandagl",
+  "music": true,
+  "musicVol": 0.04755470752716064,
+  "newGui": false,
+  "res": [
+    1920,
+    1017
+  ],
+  "sfx": true,
+  "sfxVol": 0.15966948509216308,
+  "show-cog-levels": true,
+  "show-disclaimer": false,
+  "smoothanimations": true,
+  "streamerMode": false,
+  "toonChatSounds": true,
+  "tpmsgs": true,
+  "vertical-sync": false,
+  "want-Custom-Controls": true
+}
